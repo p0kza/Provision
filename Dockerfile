@@ -32,5 +32,5 @@ RUN useradd -ms /bin/bash Chester \
 
 # Run the artefact
 USER Chester
-EXPOSE 6969
+EXPOSE 443
 ENTRYPOINT [ "/opt/anisette_server", "-r=true" ]
