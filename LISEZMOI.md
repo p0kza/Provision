@@ -2,7 +2,8 @@
 
 [English](README.md) ⋅ Français
 
-> **Warning** **(attention)**  \
+Version qui change le port à 443 pour déployer sur render sans problèmes (Je conseille d'utiliser le repository de Dadoum, celui-ci est peut être pas mis a jour).
+
 > N'utilisez pas votre compte Apple personnel ! Préférez un compte secondaire sans importance.  \
 > Je **NE** suis **PAS** responsable si quoi que ce soit advient à votre compte Apple. 
 
