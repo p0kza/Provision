@@ -2,7 +2,7 @@
 
 English ⋅ [Français](LISEZMOI.md)
 
-> **Version changing port to deploy on render without issues *(I recommend using the original repository, this might be outdated)***  \
+> **Version changing port to deploy on render without issues *(I recommend using the original repository, this might be outdated)***
 
 > **Warning**  \
 > Don't use your main Apple account! Prefer a secondary Apple account.  \
