@@ -1,5 +1,5 @@
 name "provision"
-description "Set of tools interracting with Apple servers."
+description "Set of tools interacting with Apple servers."
 authors "Dadoum"
 copyright "Copyright © 2023, Dadoum"
 
